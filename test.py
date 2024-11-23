@@ -1,6 +1,6 @@
 
 a = "Hi everyone"
-b = "nice to meet you"
+b = "Nice to meet you"
 
 print(a)
 print(b)
