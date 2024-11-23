@@ -1,5 +1,5 @@
 
-a = "hello world"
+a = "hi everyone"
 
 print(a)
 
