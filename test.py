@@ -1,7 +1,7 @@
 
 a = "Hi everyone."
 b = "Nice to meet you."
-c = "Hello world"
+c = "Hello world."
 
 print(a)
 print(b)
